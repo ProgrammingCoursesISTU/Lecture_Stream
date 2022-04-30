@@ -1,0 +1,16 @@
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.exe
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.deps.json
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.runtimeconfig.json
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.runtimeconfig.dev.json
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.dll
+C:\Users\borat\Desktop\Lecture_Stream\bin\Debug\net5.0\Lecture_Stream.pdb
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.csproj.AssemblyReference.cache
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.AssemblyInfoInputs.cache
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.AssemblyInfo.cs
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.csproj.CoreCompileInputs.cache
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.dll
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\refint\Lecture_Stream.dll
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.pdb
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\Lecture_Stream.genruntimeconfig.cache
+C:\Users\borat\Desktop\Lecture_Stream\obj\Debug\net5.0\ref\Lecture_Stream.dll
